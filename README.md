@@ -12,7 +12,7 @@ For this project, I used Kaggle open dataset 'Toxic Comments Classification' fro
 	Text pre-processing
 	LSTM neural networks
 
-# Problem Statement**
+# Problem Statement
 
 The Conversation AI team, a research initiative founded by Jigsaw and Google (both a part of Alphabet) are working on tools to help improve online conversation. One area of focus is the study of negative online behaviors, like toxic comments (i.e. comments that are rude, disrespectful or otherwise likely to make someone leave a discussion). 
 This competition aims to build a multi-headed model that’s capable of detecting different types of toxicity - severe_toxic, obscene, threat, insult, identity_hate. The model should predict a probability for each type of toxicity for each comment.
