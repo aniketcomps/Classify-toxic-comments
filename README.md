@@ -27,7 +27,7 @@ This competition aims to build a multi-headed model that’s capable of detectin
 
 # File Description
 
-This dataset contains a large number of comments from Wikipedia’s talk page edits, which have been labeled by human raters for toxic behavior.
+This dataset contains a large number of comments from Wikipedia’s talk page edits, which have been labeled by human raters for toxic behavior. More details about the dataset can be found [here](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
 
 # Approach
 
