@@ -29,7 +29,7 @@ This competition aims to build a multi-headed model that’s capable of detectin
 
 This dataset contains a large number of comments from Wikipedia’s talk page edits, which have been labeled by human raters for toxic behavior.
 
-**Approach:
+# Approach
 
 * Tokenized and integer encoded the comments
 * Padded dataset to reduce input size
