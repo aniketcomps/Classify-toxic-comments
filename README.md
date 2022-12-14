@@ -35,5 +35,5 @@ This dataset contains a large number of comments from Wikipedia’s talk page ed
 * Padded dataset to reduce input size
 * Loaded GloVe embeddings and created embedding matrix for words present in dataset
 * Initialize LSTM model with the embedding layer. One output neuron for each type of toxicity with Sigmoid activation.
-* Run the model with Adam optimizer and Early Stopping rule
+* Run the model with Adam optimizer and Early Stopping rule that checks for validation set loss
 * Save the trained model which is able to distinguish between different types of toxicity in comments
